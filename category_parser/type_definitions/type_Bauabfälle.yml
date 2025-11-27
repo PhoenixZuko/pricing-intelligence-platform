@@ -1,0 +1,61 @@
+# Notes:
+# - This file defines categories and their associated synonyms for classification.
+# - Each "category" is the main label assigned to a product.
+# - Each "synonym" is a keyword: if the product name contains this word, it will be classified under the associated category.
+# - If multiple synonyms are listed, any of them can trigger the same category.
+# - Remaining words from the product name (after the synonym) are automatically used as "subcategory".
+# - To add a new category: create a new block with "category" and a list of synonyms.
+# - To move a product to another category: move its keyword (synonym) under the new category.
+
+categories:
+  - category: Baumischabfall
+    synonyms:
+      - Bauschutt
+      - Baumischabfall
+      - bauabfall
+
+  - category: Gips
+    synonyms:
+      - Gips
+      - Rigips
+      - gipshaltige
+      - gipsabfall
+
+  - category: Holz
+    synonyms:
+      - Holzabfälle
+      - altholz
+      - holz
+
+  - category: Beton
+    synonyms:
+      - Beton
+
+  - category: Glaswolle
+    synonyms:
+      - Mineralwolle
+      - Glaswolle
+
+  - category: Asbest
+    synonyms:
+      - Asbesthaltige
+
+  - category: Styropor
+    synonyms:
+      - Styropor            
+
+  - category: Porenbeton
+    synonyms:
+      - Ytong
+      - Porenbeton
+      - Bimssteine
+      - Gasbeton
+
+  - category: Metallschrott
+    synonyms:
+     - Metallschrott
+     - Schrott
+
+  - category: Bauglas
+    synonyms:
+     - Flachglas

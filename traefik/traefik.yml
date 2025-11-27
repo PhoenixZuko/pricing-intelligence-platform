@@ -1,0 +1,12 @@
+http:
+
+  middlewares:
+
+    metabase-auth:
+
+      basicAuth:
+
+        users:
+
+          - "admin:$$apr1$toeRQo80$0opmyheytjauUW.Az7FrX0"
+

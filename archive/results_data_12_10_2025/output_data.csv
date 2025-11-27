@@ -1,0 +1,376 @@
+date,link,kubikmeter,produkt,currency,price
+2025-10-12 02:00:54,cdz-berlin.de,3,Bauschutt / Boden siebfähig,€,321.3
+2025-10-12 02:00:54,cdz-berlin.de,5,Bauschutt / Boden siebfähig,€,392.0
+2025-10-12 02:00:54,cdz-berlin.de,6,Bauschutt,€,471.0
+2025-10-12 02:00:54,cdz-berlin.de,7,Bauschutt,€,549.0
+2025-10-12 02:00:54,cdz-berlin.de,12,Bauschutt,€,942.0
+2025-10-12 02:00:54,cdz-berlin.de,3,Baumischabfall,€,446.25
+2025-10-12 02:00:54,cdz-berlin.de,5,Baumischabfall,€,535.0
+2025-10-12 02:00:54,cdz-berlin.de,6,Baumischabfall,€,642.0
+2025-10-12 02:00:54,cdz-berlin.de,7,Baumischabfall,€,761.01
+2025-10-12 02:00:54,cdz-berlin.de,3,Beton ohne Stahl,€,214.2
+2025-10-12 02:00:54,cdz-berlin.de,5,Beton ohne Stahl,€,285.0
+2025-10-12 02:00:54,cdz-berlin.de,6,Beton ohne Stahl,€,342.0
+2025-10-12 02:00:54,cdz-berlin.de,7,Beton ohne Stahl,€,399.0
+2025-10-12 02:00:54,cdz-berlin.de,12,Beton ohne Stahl,€,685.0
+2025-10-12 02:00:54,cdz-berlin.de,13,Beton ohne Stahl,€,742.0
+2025-10-12 02:00:54,cdz-berlin.de,3,Beton mit Stahl,€,255.26
+2025-10-12 02:00:54,cdz-berlin.de,5,Beton mit Stahl,€,321.0
+2025-10-12 02:00:54,cdz-berlin.de,6,Beton mit Stahl,€,385.0
+2025-10-12 02:00:54,cdz-berlin.de,7,Beton mit Stahl,€,449.0
+2025-10-12 02:00:54,cdz-berlin.de,12,Beton mit Stahl,€,771.0
+2025-10-12 02:00:54,cdz-berlin.de,13,Beton mit Stahl,€,835.0
+2025-10-12 02:00:54,cdz-berlin.de,3,Sperrmüll,€,374.85
+2025-10-12 02:00:54,cdz-berlin.de,5,Sperrmüll,€,422.0
+2025-10-12 02:00:54,cdz-berlin.de,6,Sperrmüll,€,506.0
+2025-10-12 02:00:54,cdz-berlin.de,7,Sperrmüll,€,591.0
+2025-10-12 02:00:54,cdz-berlin.de,10,Sperrmüll,€,844.0
+2025-10-12 02:00:54,cdz-berlin.de,3,Holz,€,241.0
+2025-10-12 02:00:54,cdz-berlin.de,5,Holz,€,297.0
+2025-10-12 02:00:54,cdz-berlin.de,6,Holz,€,357.0
+2025-10-12 02:00:54,cdz-berlin.de,7,Holz,€,416.0
+2025-10-12 02:00:54,cdz-berlin.de,10,Holz,€,595.0
+2025-10-12 02:00:54,cdz-berlin.de,12,Holz,€,714.0
+2025-10-12 02:00:54,cdz-berlin.de,13,Holz,€,773.0
+2025-10-12 02:00:54,cdz-berlin.de,15,Holz,€,892.0
+2025-10-12 02:00:54,cdz-berlin.de,3,Gartenabfälle,€,214.0
+2025-10-12 02:00:54,cdz-berlin.de,5,Gartenabfälle,€,249.0
+2025-10-12 02:00:54,cdz-berlin.de,6,Gartenabfälle,€,299.0
+2025-10-12 02:00:54,cdz-berlin.de,7,Gartenabfälle,€,349.0
+2025-10-12 02:00:54,cdz-berlin.de,10,Gartenabfälle,€,511.11
+2025-10-12 02:00:54,cdz-berlin.de,12,Gartenabfälle,€,599.0
+2025-10-12 02:00:54,cdz-berlin.de,13,Gartenabfälle,€,649.0
+2025-10-12 02:00:54,cdz-berlin.de,15,Gartenabfälle,€,749.0
+2025-10-12 02:00:54,cdz-berlin.de,20,Gartenabfälle,€,999.0
+2025-10-12 02:00:54,cdz-berlin.de,3,Baumstämme Wurzeln,€,446.0
+2025-10-12 02:00:54,cdz-berlin.de,5,Baumstämme Wurzeln,€,535.0
+2025-10-12 02:00:54,cdz-berlin.de,6,Baumstämme Wurzeln,€,642.0
+2025-10-12 02:00:54,cdz-berlin.de,7,Baumstämme Wurzeln,€,749.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Altpapier & Karton,€,290.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Altpapier & Karton,€,305.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Altpapier & Karton,€,335.0
+2025-10-12 02:06:59,www.clearago.de,12.0,Altpapier & Karton,€,375.0
+2025-10-12 02:06:59,www.clearago.de,15.0,Altpapier & Karton,€,405.0
+2025-10-12 02:06:59,www.clearago.de,20.0,Altpapier & Karton,€,450.0
+2025-10-12 02:06:59,www.clearago.de,25.0,Altpapier & Karton,€,500.0
+2025-10-12 02:06:59,www.clearago.de,30.0,Altpapier & Karton,€,550.0
+2025-10-12 02:06:59,www.clearago.de,36.0,Altpapier & Karton,€,610.0
+2025-10-12 02:06:59,www.clearago.de,40.0,Altpapier & Karton,€,650.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Baumischabfall (über 15% Schutt / Erde),€,460.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Baumischabfall (über 15% Schutt / Erde),€,700.0
+2025-10-12 02:06:59,www.clearago.de,5.5,Baumischabfall (über 15% Schutt / Erde),€,780.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Baumischabfall (über 15% Schutt / Erde),€,840.0
+2025-10-12 02:06:59,www.clearago.de,8.0,Baumischabfall (über 15% Schutt / Erde),€,920.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Baumischabfall (bis 15% Schutt / Erde),€,425.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Baumischabfall (bis 15% Schutt / Erde),€,530.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Baumischabfall (bis 15% Schutt / Erde),€,700.0
+2025-10-12 02:06:59,www.clearago.de,8.0,Baumischabfall (bis 15% Schutt / Erde),€,830.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Baumischabfall (bis 15% Schutt / Erde),€,985.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Bauschutt mit Fremdanteilen (<5%),€,370.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Bauschutt mit Fremdanteilen (<5%),€,370.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Bauschutt mit Fremdanteilen (<5%),€,505.0
+2025-10-12 02:06:59,www.clearago.de,5.5,Bauschutt mit Fremdanteilen (<5%),€,620.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Bauschutt mit Fremdanteilen (<5%),€,670.0
+2025-10-12 02:06:59,www.clearago.de,8.0,Bauschutt mit Fremdanteilen (<5%),€,840.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Bauschutt mit Fremdanteilen (<5%),€,920.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Bauschutt ohne Fremdanteile,€,320.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Bauschutt ohne Fremdanteile,€,320.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Bauschutt ohne Fremdanteile,€,475.0
+2025-10-12 02:06:59,www.clearago.de,5.5,Bauschutt ohne Fremdanteile,€,540.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Bauschutt ohne Fremdanteile,€,545.0
+2025-10-12 02:06:59,www.clearago.de,8.0,Bauschutt ohne Fremdanteile,€,790.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Bauschutt ohne Fremdanteile,€,805.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Beton mit Stahl (Kantenlänge < 60 cm),€,290.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Beton mit Stahl (Kantenlänge < 60 cm),€,290.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Beton mit Stahl (Kantenlänge < 60 cm),€,450.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Beton mit Stahl (Kantenlänge < 60 cm),€,555.0
+2025-10-12 02:06:59,www.clearago.de,8.0,Beton mit Stahl (Kantenlänge < 60 cm),€,660.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Beton ohne Stahl (Kantenlänge < 60 cm),€,260.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Beton ohne Stahl (Kantenlänge < 60 cm),€,260.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Beton ohne Stahl (Kantenlänge < 60 cm),€,350.0
+2025-10-12 02:06:59,www.clearago.de,8.0,Beton ohne Stahl (Kantenlänge < 60 cm),€,595.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Beton ohne Stahl (Kantenlänge < 60 cm),€,865.0
+2025-10-12 02:06:59,www.clearago.de,13.0,Beton ohne Stahl (Kantenlänge < 60 cm),€,995.0
+2025-10-12 02:06:59,www.clearago.de,5.0,KMF-Dämmung & Mineralwolle,€,430.0
+2025-10-12 02:06:59,www.clearago.de,7.0,KMF-Dämmung & Mineralwolle,€,505.0
+2025-10-12 02:06:59,www.clearago.de,10.0,KMF-Dämmung & Mineralwolle,€,620.0
+2025-10-12 02:06:59,www.clearago.de,12.0,KMF-Dämmung & Mineralwolle,€,710.0
+2025-10-12 02:06:59,www.clearago.de,15.0,KMF-Dämmung & Mineralwolle,€,825.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Styropor,€,375.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Styropor,€,375.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Styropor,€,625.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Styropor,€,865.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Erdaushub mit Fremdanteilen (<5%),€,385.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Erdaushub mit Fremdanteilen (<5%),€,385.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Erdaushub mit Fremdanteilen (<5%),€,500.0
+2025-10-12 02:06:59,www.clearago.de,5.5,Erdaushub mit Fremdanteilen (<5%),€,580.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Erdaushub mit Fremdanteilen (<5%),€,640.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Erdaushub ohne Fremdanteile,€,315.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Erdaushub ohne Fremdanteile,€,315.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Erdaushub ohne Fremdanteile,€,465.0
+2025-10-12 02:06:59,www.clearago.de,5.5,Erdaushub ohne Fremdanteile,€,500.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Erdaushub ohne Fremdanteile,€,600.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Baumstumpen & Wurzeln,€,395.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Baumstumpen & Wurzeln,€,490.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Baumstumpen & Wurzeln,€,585.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Baumstumpen & Wurzeln,€,745.0
+2025-10-12 02:06:59,www.clearago.de,12.0,Baumstumpen & Wurzeln,€,870.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Gartenabfälle & Grünschnitt (∅ < 15 cm),€,245.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Gartenabfälle & Grünschnitt (∅ < 15 cm),€,340.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Gartenabfälle & Grünschnitt (∅ < 15 cm),€,395.0
+2025-10-12 02:06:59,www.clearago.de,8.0,Gartenabfälle & Grünschnitt (∅ < 15 cm),€,510.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Gartenabfälle & Grünschnitt (∅ < 15 cm),€,585.0
+2025-10-12 02:06:59,www.clearago.de,12.0,Gartenabfälle & Grünschnitt (∅ < 15 cm),€,805.0
+2025-10-12 02:06:59,www.clearago.de,15.0,Gartenabfälle & Grünschnitt (∅ < 15 cm),€,940.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,260.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,290.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,320.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,365.0
+2025-10-12 02:06:59,www.clearago.de,12.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,425.0
+2025-10-12 02:06:59,www.clearago.de,15.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,465.0
+2025-10-12 02:06:59,www.clearago.de,20.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,555.0
+2025-10-12 02:06:59,www.clearago.de,22.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,575.0
+2025-10-12 02:06:59,www.clearago.de,25.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,635.0
+2025-10-12 02:06:59,www.clearago.de,30.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,715.0
+2025-10-12 02:06:59,www.clearago.de,36.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,810.0
+2025-10-12 02:06:59,www.clearago.de,40.0,Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt),€,865.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Holzabfälle AⅣ (schadstoffbelastet),€,300.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Holzabfälle AⅣ (schadstoffbelastet),€,300.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Holzabfälle AⅣ (schadstoffbelastet),€,370.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Holzabfälle AⅣ (schadstoffbelastet),€,430.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Holzabfälle AⅣ (schadstoffbelastet),€,515.0
+2025-10-12 02:06:59,www.clearago.de,12.0,Holzabfälle AⅣ (schadstoffbelastet),€,585.0
+2025-10-12 02:06:59,www.clearago.de,15.0,Holzabfälle AⅣ (schadstoffbelastet),€,670.0
+2025-10-12 02:06:59,www.clearago.de,20.0,Holzabfälle AⅣ (schadstoffbelastet),€,810.0
+2025-10-12 02:06:59,www.clearago.de,22.0,Holzabfälle AⅣ (schadstoffbelastet),€,915.0
+2025-10-12 02:06:59,www.clearago.de,25.0,Holzabfälle AⅣ (schadstoffbelastet),€,955.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Rigips & gipshaltige Baustoffe,€,335.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Rigips & gipshaltige Baustoffe,€,440.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Rigips & gipshaltige Baustoffe,€,530.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Rigips & gipshaltige Baustoffe,€,665.0
+2025-10-12 02:06:59,www.clearago.de,12.0,Rigips & gipshaltige Baustoffe,€,810.0
+2025-10-12 02:06:59,www.clearago.de,15.0,Rigips & gipshaltige Baustoffe,€,925.0
+2025-10-12 02:06:59,www.clearago.de,3.0,"Ytong, Poren- & Gasbeton",€,375.0
+2025-10-12 02:06:59,www.clearago.de,5.0,"Ytong, Poren- & Gasbeton",€,510.0
+2025-10-12 02:06:59,www.clearago.de,5.5,"Ytong, Poren- & Gasbeton",€,595.0
+2025-10-12 02:06:59,www.clearago.de,7.0,"Ytong, Poren- & Gasbeton",€,620.0
+2025-10-12 02:06:59,www.clearago.de,8.0,"Ytong, Poren- & Gasbeton",€,720.0
+2025-10-12 02:06:59,www.clearago.de,10.0,"Ytong, Poren- & Gasbeton",€,815.0
+2025-10-12 02:06:59,www.clearago.de,2.0,Gewerblicher Elektroschrott,€,270.0
+2025-10-12 02:06:59,www.clearago.de,2.0,Gewerblicher Elektroschrott,€,270.0
+2025-10-12 02:06:59,www.clearago.de,4.0,Gewerblicher Elektroschrott,€,540.0
+2025-10-12 02:06:59,www.clearago.de,6.0,Gewerblicher Elektroschrott,€,810.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Flachglas / Bauglas,€,610.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Flachglas / Bauglas,€,765.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Gemischte Gewerbeabfälle,€,370.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Gemischte Gewerbeabfälle,€,370.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Gemischte Gewerbeabfälle,€,480.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Gemischte Gewerbeabfälle,€,585.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Gemischte Gewerbeabfälle,€,745.0
+2025-10-12 02:06:59,www.clearago.de,12.0,Gemischte Gewerbeabfälle,€,870.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Metallschrott,€,200.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Metallschrott,€,200.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Metallschrott,€,210.0
+2025-10-12 02:06:59,www.clearago.de,15.0,Metallschrott,€,230.0
+2025-10-12 02:06:59,www.clearago.de,20.0,Metallschrott,€,250.0
+2025-10-12 02:06:59,www.clearago.de,24.0,Metallschrott,€,260.0
+2025-10-12 02:06:59,www.clearago.de,30.0,Metallschrott,€,270.0
+2025-10-12 02:06:59,www.clearago.de,36.0,Metallschrott,€,280.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Siedlungsabfall,€,370.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Siedlungsabfall,€,370.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Siedlungsabfall,€,505.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Siedlungsabfall,€,615.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Siedlungsabfall,€,780.0
+2025-10-12 02:06:59,www.clearago.de,12.0,Siedlungsabfall,€,915.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Sperrmüll,€,335.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Sperrmüll,€,335.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Sperrmüll,€,500.0
+2025-10-12 02:06:59,www.clearago.de,5.5,Sperrmüll,€,540.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Sperrmüll,€,585.0
+2025-10-12 02:06:59,www.clearago.de,8.0,Sperrmüll,€,670.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Sperrmüll,€,765.0
+2025-10-12 02:06:59,www.clearago.de,12.0,Sperrmüll,€,915.0
+2025-10-12 02:06:59,www.clearago.de,13.0,Sperrmüll,€,995.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Gemischte Verpackungen,€,300.0
+2025-10-12 02:06:59,www.clearago.de,3.0,Gemischte Verpackungen,€,300.0
+2025-10-12 02:06:59,www.clearago.de,5.0,Gemischte Verpackungen,€,385.0
+2025-10-12 02:06:59,www.clearago.de,7.0,Gemischte Verpackungen,€,410.0
+2025-10-12 02:06:59,www.clearago.de,10.0,Gemischte Verpackungen,€,440.0
+2025-10-12 02:06:59,www.clearago.de,12.0,Gemischte Verpackungen,€,710.0
+2025-10-12 02:06:59,www.clearago.de,15.0,Gemischte Verpackungen,€,830.0
+2025-10-12 02:06:59,www.clearago.de,5.0,PE-Folie,€,290.0
+2025-10-12 02:06:59,www.clearago.de,5.0,PE-Folie,€,290.0
+2025-10-12 02:06:59,www.clearago.de,7.0,PE-Folie,€,305.0
+2025-10-12 02:06:59,www.clearago.de,10.0,PE-Folie,€,335.0
+2025-10-12 02:06:59,www.clearago.de,12.0,PE-Folie,€,375.0
+2025-10-12 02:06:59,www.clearago.de,15.0,PE-Folie,€,405.0
+2025-10-12 02:06:59,www.clearago.de,20.0,PE-Folie,€,450.0
+2025-10-12 02:06:59,www.clearago.de,25.0,PE-Folie,€,500.0
+2025-10-12 02:06:59,www.clearago.de,30.0,PE-Folie,€,550.0
+2025-10-12 02:06:59,www.clearago.de,36.0,PE-Folie,€,610.0
+2025-10-12 02:06:59,www.clearago.de,40.0,PE-Folie,€,650.0
+2025-10-12 02:04:13,www.klebs.info,3,altholz,€,321.3
+2025-10-12 02:04:13,www.klebs.info,5,altholz,€,436.73
+2025-10-12 02:04:13,www.klebs.info,7,altholz,€,474.81
+2025-10-12 02:04:13,www.klebs.info,8,altholz,€,542.64
+2025-10-12 02:04:13,www.klebs.info,10,altholz,€,678.3
+2025-10-12 02:04:13,www.klebs.info,3,bauabfall,€,464.1
+2025-10-12 02:04:13,www.klebs.info,5,bauabfall,€,644.98
+2025-10-12 02:04:13,www.klebs.info,7,bauabfall,€,749.7
+2025-10-12 02:04:13,www.klebs.info,8,bauabfall,€,856.8
+2025-10-12 02:04:13,www.klebs.info,3,bauschutt,€,386.75
+2025-10-12 02:04:13,www.klebs.info,5,bauschutt,€,534.31
+2025-10-12 02:04:13,www.klebs.info,7,bauschutt,€,658.07
+2025-10-12 02:04:13,www.klebs.info,8,bauschutt,€,752.08
+2025-10-12 02:04:13,www.klebs.info,10,bauschutt,€,940.01
+2025-10-12 02:04:13,www.klebs.info,3,gipsabfall,€,374.85
+2025-10-12 02:04:13,www.klebs.info,5,gipsabfall,€,546.53
+2025-10-12 02:04:13,www.klebs.info,7,gipsabfall,€,595.11
+2025-10-12 02:04:13,www.klebs.info,8,gipsabfall,€,680.13
+2025-10-12 02:04:13,www.klebs.info,10,gipsabfall,€,850.16
+2025-10-12 02:04:13,www.klebs.info,3,container für behandeltes holz,€,434.35
+2025-10-12 02:04:13,www.klebs.info,5,container für behandeltes holz,€,636.65
+2025-10-12 02:04:13,www.klebs.info,7,container für behandeltes holz,€,653.91
+2025-10-12 02:04:13,www.klebs.info,8,container für behandeltes holz,€,747.32
+2025-10-12 02:04:13,www.klebs.info,10,container für behandeltes holz,€,934.15
+2025-10-12 02:04:13,www.klebs.info,3,gartenabfall,€,345.1
+2025-10-12 02:04:13,www.klebs.info,5,gartenabfall,€,458.15
+2025-10-12 02:04:13,www.klebs.info,7,gartenabfall,€,499.8
+2025-10-12 02:04:13,www.klebs.info,8,gartenabfall,€,571.2
+2025-10-12 02:04:13,www.klebs.info,10,gartenabfall,€,714.0
+2025-10-12 02:04:13,www.klebs.info,3,gewerbeabfall-container,€,378.42
+2025-10-12 02:04:13,www.klebs.info,5,gewerbeabfall-container,€,527.17
+2025-10-12 02:04:13,www.klebs.info,7,gewerbeabfall-container,€,649.74
+2025-10-12 02:04:13,www.klebs.info,8,gewerbeabfall-container,€,742.56
+2025-10-12 02:04:13,www.klebs.info,10,gewerbeabfall-container,€,928.2
+2025-10-12 02:04:13,www.klebs.info,3,sperrmüll,€,345.1
+2025-10-12 02:04:13,www.klebs.info,5,sperrmüll,€,523.6
+2025-10-12 02:04:13,www.klebs.info,7,sperrmüll,€,574.77
+2025-10-12 02:04:13,www.klebs.info,8,sperrmüll,€,656.88
+2025-10-12 02:04:13,www.klebs.info,10,sperrmüll,€,821.1
+2025-10-12 02:00:56,www.dino-container.de,3,Sperrmüll,€,381.17
+2025-10-12 02:00:56,www.dino-container.de,3,Bauschutt,€,370.16
+2025-10-12 02:00:56,www.dino-container.de,7,Baumischabfall,€,871.52
+2025-10-12 02:00:56,www.dino-container.de,7,Beton,€,322.59
+2025-10-12 02:00:56,www.dino-container.de,1,Beton,€,55.0
+2025-10-12 02:00:56,www.dino-container.de,10,Gartenabfall,€,491.98
+2025-10-12 02:00:56,www.dino-container.de,1,Holz,€,39.0
+2025-10-12 02:00:56,www.dino-container.de,1,Abfallgemische,€,109.0
+2025-10-12 02:13:34,app.entsorgo.de,3,"Baustellenmischabfall ohne Boden, Bauschutt & Steine Container",€,399.76
+2025-10-12 02:13:34,app.entsorgo.de,5,"Baustellenmischabfall ohne Boden, Bauschutt & Steine Container",€,550.73
+2025-10-12 02:13:34,app.entsorgo.de,7,"Baustellenmischabfall ohne Boden, Bauschutt & Steine Container",€,771.02
+2025-10-12 02:13:34,app.entsorgo.de,3,"Baustellenmischabfall mit Boden, Bauschutt & Steine Container",€,399.76
+2025-10-12 02:13:34,app.entsorgo.de,5,"Baustellenmischabfall mit Boden, Bauschutt & Steine Container",€,550.73
+2025-10-12 02:13:34,app.entsorgo.de,7,"Baustellenmischabfall mit Boden, Bauschutt & Steine Container",€,771.02
+2025-10-12 02:13:34,app.entsorgo.de,3,Sperrmüll Container,€,346.47
+2025-10-12 02:13:34,app.entsorgo.de,5,Sperrmüll Container,€,426.43
+2025-10-12 02:13:34,app.entsorgo.de,7,Sperrmüll Container,€,597.0
+2025-10-12 02:13:34,app.entsorgo.de,10,Sperrmüll Container,€,852.86
+2025-10-12 02:13:34,app.entsorgo.de,3,Bauschutt (nicht sortenrein) Container,€,319.81
+2025-10-12 02:13:34,app.entsorgo.de,5,Bauschutt (nicht sortenrein) Container,€,399.74
+2025-10-12 02:13:34,app.entsorgo.de,7,Bauschutt (nicht sortenrein) Container,€,559.64
+2025-10-12 02:13:34,app.entsorgo.de,3,Holz behandelt (A2-A3) Container,€,275.4
+2025-10-12 02:13:34,app.entsorgo.de,5,Holz behandelt (A2-A3) Container,€,310.95
+2025-10-12 02:13:34,app.entsorgo.de,7,Holz behandelt (A2-A3) Container,€,390.82
+2025-10-12 02:13:34,app.entsorgo.de,10,Holz behandelt (A2-A3) Container,€,434.24
+2025-10-12 02:13:34,app.entsorgo.de,15,Holz behandelt (A2-A3) Container,€,538.79
+2025-10-12 02:13:34,app.entsorgo.de,22,Holz behandelt (A2-A3) Container,€,640.1
+2025-10-12 02:13:34,app.entsorgo.de,40,Holz behandelt (A2-A3) Container,€,900.64
+2025-10-12 02:13:34,app.entsorgo.de,1,Asbesthaltige Baustoffe (inkl. BigBags) Container,€,464.1
+2025-10-12 02:13:34,app.entsorgo.de,3,Asbesthaltige Baustoffe (inkl. BigBags) Container,€,963.72
+2025-10-12 02:13:34,app.entsorgo.de,3,"Dämmwolle, Glaswolle, oder Isolierwolle (inkl. Big Bags) Container",€,399.13
+2025-10-12 02:13:34,app.entsorgo.de,5,"Dämmwolle, Glaswolle, oder Isolierwolle (inkl. Big Bags) Container",€,666.29
+2025-10-12 02:13:34,app.entsorgo.de,7,"Dämmwolle, Glaswolle, oder Isolierwolle (inkl. Big Bags) Container",€,932.81
+2025-10-12 02:13:34,app.entsorgo.de,3,Bodenaushub (mit Steinen < 20%) Container,€,390.88
+2025-10-12 02:13:34,app.entsorgo.de,5,Bodenaushub (mit Steinen < 20%) Container,€,461.93
+2025-10-12 02:13:34,app.entsorgo.de,7,Bodenaushub (mit Steinen < 20%) Container,€,646.71
+2025-10-12 02:13:34,app.entsorgo.de,1,Styropor (HBCD frei mit Nachweis) Container,€,559.67
+2025-10-12 02:13:34,app.entsorgo.de,3,Styropor (HBCD frei mit Nachweis) Container,€,666.4
+2025-10-12 02:13:34,app.entsorgo.de,5,Styropor (HBCD frei mit Nachweis) Container,€,892.5
+2025-10-12 02:13:34,app.entsorgo.de,3,Siedlungsabfall Container,€,399.76
+2025-10-12 02:13:34,app.entsorgo.de,5,Siedlungsabfall Container,€,550.73
+2025-10-12 02:13:34,app.entsorgo.de,7,Siedlungsabfall Container,€,761.98
+2025-10-12 02:13:34,app.entsorgo.de,10,Siedlungsabfall Container,€,992.91
+2025-10-12 02:13:34,app.entsorgo.de,3,Gartenabfall: Grünschnitt Container,€,302.05
+2025-10-12 02:13:34,app.entsorgo.de,5,Gartenabfall: Grünschnitt Container,€,337.56
+2025-10-12 02:13:34,app.entsorgo.de,7,Gartenabfall: Grünschnitt Container,€,472.58
+2025-10-12 02:13:34,app.entsorgo.de,10,Gartenabfall: Grünschnitt Container,€,675.11
+2025-10-12 02:13:34,app.entsorgo.de,3,Holz schadstoffbelastet (A4) Container,€,324.87
+2025-10-12 02:13:34,app.entsorgo.de,5,Holz schadstoffbelastet (A4) Container,€,425.43
+2025-10-12 02:13:34,app.entsorgo.de,7,Holz schadstoffbelastet (A4) Container,€,512.37
+2025-10-12 02:13:34,app.entsorgo.de,10,Holz schadstoffbelastet (A4) Container,€,599.21
+2025-10-12 02:13:34,app.entsorgo.de,15,Holz schadstoffbelastet (A4) Container,€,776.12
+2025-10-12 02:13:34,app.entsorgo.de,22,Holz schadstoffbelastet (A4) Container,€,978.77
+2025-10-12 02:13:34,app.entsorgo.de,10,Schrott Container,€,464.1
+2025-10-12 02:13:34,app.entsorgo.de,40,Schrott Container,€,773.5
+2025-10-12 02:13:34,app.entsorgo.de,3,Gips (gemischt) Container,€,422.86
+2025-10-12 02:13:34,app.entsorgo.de,5,Gips (gemischt) Container,€,479.57
+2025-10-12 02:13:34,app.entsorgo.de,7,Gips (gemischt) Container,€,671.61
+2025-10-12 02:13:34,app.entsorgo.de,10,Gips (gemischt) Container,€,959.45
+2025-10-12 02:13:34,app.entsorgo.de,3,Gips (rein) Container,€,422.86
+2025-10-12 02:13:34,app.entsorgo.de,5,Gips (rein) Container,€,479.57
+2025-10-12 02:13:34,app.entsorgo.de,7,Gips (rein) Container,€,671.61
+2025-10-12 02:13:34,app.entsorgo.de,10,Gips (rein) Container,€,959.45
+2025-10-12 02:13:34,app.entsorgo.de,3,Bodenaushub ohne Fremdanteil Container,€,390.88
+2025-10-12 02:13:34,app.entsorgo.de,5,Bodenaushub ohne Fremdanteil Container,€,461.93
+2025-10-12 02:13:34,app.entsorgo.de,7,Bodenaushub ohne Fremdanteil Container,€,646.71
+2025-10-12 02:13:34,app.entsorgo.de,3,"Ytong, Bimssteine, Porenbeton Container",€,399.76
+2025-10-12 02:13:34,app.entsorgo.de,5,"Ytong, Bimssteine, Porenbeton Container",€,550.73
+2025-10-12 02:13:34,app.entsorgo.de,7,"Ytong, Bimssteine, Porenbeton Container",€,771.02
+2025-10-12 02:13:34,app.entsorgo.de,3,Verpackungen gemischt Container,€,361.69
+2025-10-12 02:13:34,app.entsorgo.de,5,Verpackungen gemischt Container,€,454.07
+2025-10-12 02:13:34,app.entsorgo.de,7,Verpackungen gemischt Container,€,546.44
+2025-10-12 02:13:34,app.entsorgo.de,10,Verpackungen gemischt Container,€,684.99
+2025-10-12 02:13:34,app.entsorgo.de,12,Verpackungen gemischt Container,€,813.07
+2025-10-12 02:13:34,app.entsorgo.de,13,Verpackungen gemischt Container,€,859.26
+2025-10-12 02:13:34,app.entsorgo.de,3,Verpackungsmaterial (transparent) Container,€,361.69
+2025-10-12 02:13:34,app.entsorgo.de,5,Verpackungsmaterial (transparent) Container,€,454.07
+2025-10-12 02:13:34,app.entsorgo.de,7,Verpackungsmaterial (transparent) Container,€,546.44
+2025-10-12 02:13:34,app.entsorgo.de,10,Verpackungsmaterial (transparent) Container,€,684.99
+2025-10-12 02:13:34,app.entsorgo.de,12,Verpackungsmaterial (transparent) Container,€,813.07
+2025-10-12 02:13:34,app.entsorgo.de,13,Verpackungsmaterial (transparent) Container,€,859.26
+2025-10-12 02:13:34,app.entsorgo.de,3,Gartenabfall: Wurzeln & Stammholz Container,€,546.82
+2025-10-12 02:13:34,app.entsorgo.de,5,Gartenabfall: Wurzeln & Stammholz Container,€,718.37
+2025-10-12 02:13:34,app.entsorgo.de,7,Gartenabfall: Wurzeln & Stammholz Container,€,889.92
+2025-10-12 02:13:34,app.entsorgo.de,3,Beton ohne Stahl (unbewehrt) Container,€,319.81
+2025-10-12 02:13:34,app.entsorgo.de,5,Beton ohne Stahl (unbewehrt) Container,€,399.74
+2025-10-12 02:13:34,app.entsorgo.de,7,Beton ohne Stahl (unbewehrt) Container,€,559.64
+2025-10-12 02:13:34,app.entsorgo.de,13,Beton ohne Stahl (unbewehrt) Container,€,787.78
+2025-10-12 02:13:34,app.entsorgo.de,3,Beton mit Stahl (bewehrt) Container,€,357.0
+2025-10-12 02:13:34,app.entsorgo.de,5,Beton mit Stahl (bewehrt) Container,€,476.0
+2025-10-12 02:13:34,app.entsorgo.de,7,Beton mit Stahl (bewehrt) Container,€,616.42
+2025-10-12 02:13:34,app.entsorgo.de,3,Holz unbehandelt (A1) Container,€,275.4
+2025-10-12 02:13:34,app.entsorgo.de,5,Holz unbehandelt (A1) Container,€,310.95
+2025-10-12 02:13:34,app.entsorgo.de,7,Holz unbehandelt (A1) Container,€,390.82
+2025-10-12 02:13:34,app.entsorgo.de,10,Holz unbehandelt (A1) Container,€,434.24
+2025-10-12 02:13:34,app.entsorgo.de,15,Holz unbehandelt (A1) Container,€,538.79
+2025-10-12 02:13:34,app.entsorgo.de,22,Holz unbehandelt (A1) Container,€,640.1
+2025-10-12 02:13:34,app.entsorgo.de,40,Holz unbehandelt (A1) Container,€,900.64
+2025-10-12 02:13:34,app.entsorgo.de,3,Bodenaushub (mit Grasnarbe) Container,€,559.3
+2025-10-12 02:13:34,app.entsorgo.de,5,Bodenaushub (mit Grasnarbe) Container,€,868.7
+2025-10-12 02:13:34,app.entsorgo.de,3,"Papier, Pappe, Kartonage Container",€,418.15
+2025-10-12 02:13:34,app.entsorgo.de,5,"Papier, Pappe, Kartonage Container",€,503.93
+2025-10-12 02:13:34,app.entsorgo.de,7,"Papier, Pappe, Kartonage Container",€,589.7
+2025-10-12 02:13:34,app.entsorgo.de,10,"Papier, Pappe, Kartonage Container",€,718.37
+2025-10-12 02:13:34,app.entsorgo.de,15,"Papier, Pappe, Kartonage Container",€,964.97
+2025-10-12 02:13:34,app.entsorgo.de,3,Gartenabfall: Ast- und Strauchwerk Container,€,327.73
+2025-10-12 02:13:34,app.entsorgo.de,5,Gartenabfall: Ast- und Strauchwerk Container,€,507.65
+2025-10-12 02:13:34,app.entsorgo.de,7,Gartenabfall: Ast- und Strauchwerk Container,€,582.62
+2025-10-12 02:13:34,app.entsorgo.de,10,Gartenabfall: Ast- und Strauchwerk Container,€,733.04
+2025-10-12 02:13:34,app.entsorgo.de,3,Bauschutt (sortenrein) Container,€,319.81
+2025-10-12 02:13:34,app.entsorgo.de,5,Bauschutt (sortenrein) Container,€,399.74
+2025-10-12 02:13:34,app.entsorgo.de,7,Bauschutt (sortenrein) Container,€,559.64
+2025-10-12 02:13:34,app.entsorgo.de,1,Miettoilette mit Handdesinfektion Container,€,184.09
+2025-10-12 02:13:34,app.entsorgo.de,1,Miettoilette mit Handwaschbecken Container,€,238.24
+2025-10-12 02:13:34,app.entsorgo.de,1,Miettoilette green Container,€,249.84
+2025-10-12 02:13:34,app.entsorgo.de,0.09,Speisefett Container,€,23.67
+2025-10-12 02:13:34,app.entsorgo.de,1,Speisefett Container,€,92.05
+2025-10-12 02:13:34,app.entsorgo.de,0.07,Datenträgervernichtung Container,€,386.75
+2025-10-12 02:13:34,app.entsorgo.de,0.24,Datenträgervernichtung Container,€,850.85
+2025-10-12 02:13:34,app.entsorgo.de,0.07,Festplattenvernichtung Container,€,464.1
+2025-10-12 02:13:34,app.entsorgo.de,0.1,Aktenvernichtung Container,€,131.5
+2025-10-12 02:13:34,app.entsorgo.de,0.12,Aktenvernichtung Container,€,131.5
+2025-10-12 02:13:34,app.entsorgo.de,0.24,Aktenvernichtung Container,€,116.03
+2025-10-12 02:13:34,app.entsorgo.de,0.35,Aktenvernichtung Container,€,162.44
+2025-10-12 02:13:34,app.entsorgo.de,0.5,Aktenvernichtung Container,€,205.28
+2025-10-12 02:13:34,app.entsorgo.de,1.1,Aktenvernichtung Container,€,624.75

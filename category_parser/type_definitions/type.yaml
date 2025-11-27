@@ -1,0 +1,135 @@
+# YAML Type Definitions
+# --------------------------------------------
+# LOGIC:
+# - Each top-level key is a TYPE (a category).
+# - Under each type you will find the associated keywords.
+# - If a product name contains one of these keywords → it will be assigned this TYPE.
+# - You can move a keyword to another TYPE → the program will then classify products into that new TYPE.
+# - If no keywords match, the product will be assigned to TYPE: "Other".
+# --------------------------------------------
+# ⚠️ Important: keyword detection is case-sensitive.
+# Example:
+#   - "Holz" will match only "Holz"
+#   - "holz" will match only "holz"
+
+Bauabfälle:  # TYPE: Construction & Demolition Waste
+  - Bauschutt             # Keyword associated with Bauabfälle
+  - Baustellenmischabfall # Keyword associated with Bauabfälle
+  - Baumischabfall        # Keyword associated with Bauabfälle
+  - bauabfall             # Keyword associated with Bauabfälle
+  - Beton                 # Keyword associated with Bauabfälle
+  - Holz                  # Keyword associated with Bauabfälle
+  - Holzabfälle           # Keyword associated with Bauabfälle
+  - Asbesthaltige         # Keyword associated with Bauabfälle
+  - Mineralwolle          # Keyword associated with Bauabfälle
+  - Dämmung               # Keyword associated with Bauabfälle
+  - Glaswolle             # Keyword associated with Bauabfälle
+  - Isolierwolle          # Keyword associated with Bauabfälle
+  - Styropor              # Keyword associated with Bauabfälle
+  - Rigips                # Keyword associated with Bauabfälle
+  - gipshaltige           # Keyword associated with Bauabfälle
+  - gipsabfall            # Keyword associated with Bauabfälle
+  - Gips                  # Keyword associated with Bauabfälle
+  - Ytong                 # Keyword associated with Bauabfälle
+  - Poren                 # Keyword associated with Bauabfälle
+  - Porenbeton            # Keyword associated with Bauabfälle
+  - Bimssteine            # Keyword associated with Bauabfälle
+  - altholz               # Keyword associated with Bauabfälle
+  - Metallschrott         # Keyword associated with Bauabfälle
+  - Flachglas             # Keyword associated with Bauabfälle
+  - Schrott               # Keyword associated with Bauabfälle
+
+Sperrmüll:  # TYPE: Bulky Waste
+  - Sperrmüll             # Keyword associated with Sperrmüll
+  # - Matratzen           # (optional) Keyword associated with Sperrmüll
+  # - Möbel               # (optional) Keyword associated with Sperrmüll
+  # - Teppich             # (optional) Keyword associated with Sperrmüll
+
+Gartenabfälle:  # TYPE: Garden Waste
+  - Gartenabfälle         # Keyword associated with Gartenabfälle
+  - Baumstämme            # Keyword associated with Gartenabfälle
+  - Baumstumpen           # Keyword associated with Gartenabfälle
+  - Wurzeln               # Keyword associated with Gartenabfälle
+  - Gartenabfall          # Keyword associated with Gartenabfälle
+  - Ast                   # Keyword associated with Gartenabfälle
+  - Strauchwerk           # Keyword associated with Gartenabfälle
+  - Grünschnitt           # Keyword associated with Gartenabfälle
+
+Hausmüll:  # TYPE: Household Waste
+  - Siedlungsabfall       # Keyword associated with Hausmüll
+  - Speisefett            # Keyword associated with Hausmüll
+
+Verpackungen:  # TYPE: Packaging
+  - Altpapier             # Keyword associated with Verpackungen
+  - Karton                # Keyword associated with Verpackungen
+  - Papier                # Keyword associated with Verpackungen
+  - Pappe                 # Keyword associated with Verpackungen
+  - Folie                 # Keyword associated with Verpackungen
+  - Kartonage             # Keyword associated with Verpackungen
+  - Verpackungen          # Keyword associated with Verpackungen
+  - Verpackungsmaterial   # Keyword associated with Verpackungen
+
+Dienstleistungen:  # TYPE: Services
+  - Erdaushub             # Keyword associated with Dienstleistungen
+  - Bodenaushub           # Keyword associated with Dienstleistungen
+  - Datenträgervernichtung # Keyword associated with Dienstleistungen
+  - Festplattenvernichtung # Keyword associated with Dienstleistungen
+  - Aktenvernichtung       # Keyword associated with Dienstleistungen
+  - Miettoilette           # Keyword associated with Dienstleistungen
+
+Gewerbeabfälle:  # TYPE: Commercial Waste
+  - gewerbeabfall         # Keyword associated with Gewerbeabfälle
+  - Gewerbeabfall         # Keyword associated with Gewerbeabfälle
+  - Gewerbeabfälle        # Keyword associated with Gewerbeabfälle
+  - gemischte gewerbeabfälle # Keyword associated with Gewerbeabfälle
+  - gewerbeabfall gemischt # Keyword associated with Gewerbeabfälle
+  - gewerblicher abfall    # Keyword associated with Gewerbeabfälle
+  - gewerbemüll            # Keyword associated with Gewerbeabfälle
+  - abfälle aus gewerbe    # Keyword associated with Gewerbeabfälle
+  - restabfall gewerblich  # Keyword associated with Gewerbeabfälle
+  - gewerbeabfall-container # Keyword associated with Gewerbeabfälle
+  - abfallgemische         # Keyword associated with Gewerbeabfälle
+  - Abfallgemische         # Keyword associated with Gewerbeabfälle
+
+Other: []  # TYPE: Default category for unmatched products
+
+# --------------------------------------------
+# NOTE:
+# You are free to:
+# - Add new TYPES (categories) with your own keywords.
+# - Move any keyword to a different TYPE if you want products with that keyword to be classified differently.
+# --------------------------------------------
+
+# NOTE 2: Creating a new TYPE
+# - The program reads data from: arhive/output_data.csv
+# - You can inspect this file to see the product names the script will classify.
+# - Usually, the script detects based on the first keyword in a product name.
+# - To create a new category:
+#     1. Add a new top-level key (the TYPE name).
+#     2. Under it, list the keywords (without "#" in front).
+#     3. Save the file and rerun the program.
+#
+# Example of a new TYPE:
+#
+# Electronics:
+#   - Laptop        # Associated keyword: Laptop
+#   - Smartphone    # Associated keyword: Smartphone
+#   - Tablet        # Associated keyword: Tablet
+#
+# ⚠️ Make sure the lines with keywords are NOT commented out (no "#" in front).
+# --------------------------------------------
+
+# NOTE 3: Moving products between TYPES
+# - If you want products to belong to another TYPE, simply move the associated keyword.
+# - Example:
+#     Current:
+#       Bauabfälle:
+#         - Holz
+#     Change to:
+#       Sperrmüll:
+#         - Holz
+# - Result:
+#     Products containing "Holz" will now be assigned to TYPE = Sperrmüll
+#     (instead of Bauabfälle).
+# - The program will automatically update the classification in output_data_with_type.csv.
+# --------------------------------

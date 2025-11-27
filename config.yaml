@@ -1,0 +1,25 @@
+scrapers:
+  - name: cdz
+    script: 1cdz-scraper.py
+    enabled: true
+    # Site: cdz-berlin.de - scrapes price data from CDZ Berlin website
+
+  - name: dino
+    script: 2dino-scraper.py
+    enabled: true
+    # Site: dino.de - scrapes price info from Dino platform
+
+  - name: klebs
+    script: 3klebs-scraper.py
+    enabled: true
+    # Site: klebs.com - scrapes pricing data from Klebs site
+
+  - name: clearago
+    script: 4main_clearago.py
+    enabled: true
+    # Site: clearago.de - scrapes material prices from Clearago portal
+
+  - name: entsorgo
+    script: 5main_entsorgo.py
+    enabled: true
+    # Site: entsorgo.de - scrapes container and waste prices from Entsorgo

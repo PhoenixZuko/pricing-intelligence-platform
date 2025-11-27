@@ -1,0 +1,2130 @@
+{
+  "https://cdz-berlin.de/shop": {
+    "data_extraction": "2025-10-09 18:54:31",
+    "products": {
+      "Bauschutt / Boden siebfähig": [
+        {
+          "cbm": "3",
+          "price": 321.3,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 392.0,
+          "currency": "€"
+        }
+      ],
+      "Bauschutt": [
+        {
+          "cbm": "6",
+          "price": 471.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 549.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12",
+          "price": 942.0,
+          "currency": "€"
+        }
+      ],
+      "Baumischabfall": [
+        {
+          "cbm": "3",
+          "price": 446.25,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 535.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "6",
+          "price": 642.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 761.01,
+          "currency": "€"
+        }
+      ],
+      "Beton ohne Stahl": [
+        {
+          "cbm": "3",
+          "price": 214.2,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 285.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "6",
+          "price": 342.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 399.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12",
+          "price": 685.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "13",
+          "price": 742.0,
+          "currency": "€"
+        }
+      ],
+      "Beton mit Stahl": [
+        {
+          "cbm": "3",
+          "price": 255.26,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 321.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "6",
+          "price": 385.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 449.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12",
+          "price": 771.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "13",
+          "price": 835.0,
+          "currency": "€"
+        }
+      ],
+      "Sperrmüll": [
+        {
+          "cbm": "3",
+          "price": 374.85,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 422.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "6",
+          "price": 506.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 591.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 844.0,
+          "currency": "€"
+        }
+      ],
+      "Holz": [
+        {
+          "cbm": "3",
+          "price": 241.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 297.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "6",
+          "price": 357.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 416.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 595.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12",
+          "price": 714.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "13",
+          "price": 773.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15",
+          "price": 892.0,
+          "currency": "€"
+        }
+      ],
+      "Gartenabfälle": [
+        {
+          "cbm": "3",
+          "price": 214.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 249.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "6",
+          "price": 299.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 349.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 511.11,
+          "currency": "€"
+        },
+        {
+          "cbm": "12",
+          "price": 599.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "13",
+          "price": 649.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15",
+          "price": 749.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "20",
+          "price": 999.0,
+          "currency": "€"
+        }
+      ],
+      "Baumstämme Wurzeln": [
+        {
+          "cbm": "3",
+          "price": 446.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 535.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "6",
+          "price": 642.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 749.0,
+          "currency": "€"
+        }
+      ]
+    }
+  },
+  "https://www.clearago.de/": {
+    "data_extraction": "2025-10-09 19:00:34",
+    "products": {
+      "Altpapier & Karton": [
+        {
+          "cbm": "5.0",
+          "price": 290.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 305.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 335.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 375.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15.0",
+          "price": 405.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "20.0",
+          "price": 450.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "25.0",
+          "price": 500.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "30.0",
+          "price": 550.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "36.0",
+          "price": 610.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "40.0",
+          "price": 650.0,
+          "currency": "€"
+        }
+      ],
+      "Baumischabfall (über 15% Schutt / Erde)": [
+        {
+          "cbm": "3.0",
+          "price": 460.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 700.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.5",
+          "price": 780.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 840.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "8.0",
+          "price": 920.0,
+          "currency": "€"
+        }
+      ],
+      "Baumischabfall (bis 15% Schutt / Erde)": [
+        {
+          "cbm": "3.0",
+          "price": 425.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 530.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 700.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "8.0",
+          "price": 830.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 985.0,
+          "currency": "€"
+        }
+      ],
+      "Bauschutt mit Fremdanteilen (<5%)": [
+        {
+          "cbm": "3.0",
+          "price": 370.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 370.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 505.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.5",
+          "price": 620.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 670.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "8.0",
+          "price": 840.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 920.0,
+          "currency": "€"
+        }
+      ],
+      "Bauschutt ohne Fremdanteile": [
+        {
+          "cbm": "3.0",
+          "price": 320.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 320.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 475.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.5",
+          "price": 540.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 545.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "8.0",
+          "price": 790.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 805.0,
+          "currency": "€"
+        }
+      ],
+      "Beton mit Stahl (Kantenlänge < 60 cm)": [
+        {
+          "cbm": "3.0",
+          "price": 290.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 290.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 450.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 555.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "8.0",
+          "price": 660.0,
+          "currency": "€"
+        }
+      ],
+      "Beton ohne Stahl (Kantenlänge < 60 cm)": [
+        {
+          "cbm": "3.0",
+          "price": 260.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 260.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 350.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "8.0",
+          "price": 595.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 865.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "13.0",
+          "price": 995.0,
+          "currency": "€"
+        }
+      ],
+      "KMF-Dämmung & Mineralwolle": [
+        {
+          "cbm": "5.0",
+          "price": 430.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 505.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 620.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 710.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15.0",
+          "price": 825.0,
+          "currency": "€"
+        }
+      ],
+      "Styropor": [
+        {
+          "cbm": "3.0",
+          "price": 375.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 375.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 625.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 865.0,
+          "currency": "€"
+        }
+      ],
+      "Erdaushub mit Fremdanteilen (<5%)": [
+        {
+          "cbm": "3.0",
+          "price": 385.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 385.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 500.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.5",
+          "price": 580.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 640.0,
+          "currency": "€"
+        }
+      ],
+      "Erdaushub ohne Fremdanteile": [
+        {
+          "cbm": "3.0",
+          "price": 315.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 315.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 465.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.5",
+          "price": 500.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 600.0,
+          "currency": "€"
+        }
+      ],
+      "Baumstumpen & Wurzeln": [
+        {
+          "cbm": "3.0",
+          "price": 395.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 490.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 585.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 745.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 870.0,
+          "currency": "€"
+        }
+      ],
+      "Gartenabfälle & Grünschnitt (∅ < 15 cm)": [
+        {
+          "cbm": "3.0",
+          "price": 245.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 340.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 395.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "8.0",
+          "price": 510.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 585.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 805.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15.0",
+          "price": 940.0,
+          "currency": "€"
+        }
+      ],
+      "Holzabfälle AⅠ–AⅢ (unbehandelt & behandelt)": [
+        {
+          "cbm": "3.0",
+          "price": 260.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 290.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 320.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 365.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 425.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15.0",
+          "price": 465.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "20.0",
+          "price": 555.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "22.0",
+          "price": 575.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "25.0",
+          "price": 635.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "30.0",
+          "price": 715.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "36.0",
+          "price": 810.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "40.0",
+          "price": 865.0,
+          "currency": "€"
+        }
+      ],
+      "Holzabfälle AⅣ (schadstoffbelastet)": [
+        {
+          "cbm": "3.0",
+          "price": 300.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 300.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 370.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 430.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 515.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 585.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15.0",
+          "price": 670.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "20.0",
+          "price": 810.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "22.0",
+          "price": 915.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "25.0",
+          "price": 955.0,
+          "currency": "€"
+        }
+      ],
+      "Rigips & gipshaltige Baustoffe": [
+        {
+          "cbm": "3.0",
+          "price": 335.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 440.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 530.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 665.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 810.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15.0",
+          "price": 925.0,
+          "currency": "€"
+        }
+      ],
+      "Ytong, Poren- & Gasbeton": [
+        {
+          "cbm": "3.0",
+          "price": 375.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 510.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.5",
+          "price": 595.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 620.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "8.0",
+          "price": 720.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 815.0,
+          "currency": "€"
+        }
+      ],
+      "Gewerblicher Elektroschrott": [
+        {
+          "cbm": "2.0",
+          "price": 270.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "2.0",
+          "price": 270.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "4.0",
+          "price": 540.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "6.0",
+          "price": 810.0,
+          "currency": "€"
+        }
+      ],
+      "Flachglas / Bauglas": [
+        {
+          "cbm": "5.0",
+          "price": 610.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 765.0,
+          "currency": "€"
+        }
+      ],
+      "Gemischte Gewerbeabfälle": [
+        {
+          "cbm": "3.0",
+          "price": 370.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 370.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 480.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 585.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 745.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 870.0,
+          "currency": "€"
+        }
+      ],
+      "Metallschrott": [
+        {
+          "cbm": "7.0",
+          "price": 200.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 200.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 210.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15.0",
+          "price": 230.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "20.0",
+          "price": 250.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "24.0",
+          "price": 260.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "30.0",
+          "price": 270.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "36.0",
+          "price": 280.0,
+          "currency": "€"
+        }
+      ],
+      "Siedlungsabfall": [
+        {
+          "cbm": "3.0",
+          "price": 370.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 370.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 505.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 615.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 780.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 915.0,
+          "currency": "€"
+        }
+      ],
+      "Sperrmüll": [
+        {
+          "cbm": "3.0",
+          "price": 335.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 335.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 500.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.5",
+          "price": 540.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 585.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "8.0",
+          "price": 670.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 765.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 915.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "13.0",
+          "price": 995.0,
+          "currency": "€"
+        }
+      ],
+      "Gemischte Verpackungen": [
+        {
+          "cbm": "3.0",
+          "price": 300.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "3.0",
+          "price": 300.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 385.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 410.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 440.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 710.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15.0",
+          "price": 830.0,
+          "currency": "€"
+        }
+      ],
+      "PE-Folie": [
+        {
+          "cbm": "5.0",
+          "price": 290.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5.0",
+          "price": 290.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7.0",
+          "price": 305.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10.0",
+          "price": 335.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "12.0",
+          "price": 375.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "15.0",
+          "price": 405.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "20.0",
+          "price": 450.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "25.0",
+          "price": 500.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "30.0",
+          "price": 550.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "36.0",
+          "price": 610.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "40.0",
+          "price": 650.0,
+          "currency": "€"
+        }
+      ]
+    }
+  },
+  "https://www.klebs.info/": {
+    "data_extraction": "2025-10-09 18:57:49",
+    "products": {
+      "3 cbm (kubikmeter) altholz – container": [
+        {
+          "cbm": "3",
+          "price": 321.3,
+          "currency": "€"
+        }
+      ],
+      "5,5 cbm (kubikmeter) altholz – container": [
+        {
+          "cbm": "5",
+          "price": 436.73,
+          "currency": "€"
+        }
+      ],
+      "7 cbm (kubikmeter) altholz – container": [
+        {
+          "cbm": "7",
+          "price": 474.81,
+          "currency": "€"
+        }
+      ],
+      "8 cbm (kubikmeter) altholz – container": [
+        {
+          "cbm": "8",
+          "price": 542.64,
+          "currency": "€"
+        }
+      ],
+      "10 cbm (kubikmeter) altholz – container": [
+        {
+          "cbm": "10",
+          "price": 678.3,
+          "currency": "€"
+        }
+      ],
+      "3 cbm (kubikmeter) bauabfall – container": [
+        {
+          "cbm": "3",
+          "price": 464.1,
+          "currency": "€"
+        }
+      ],
+      "5,5 cbm (kubikmeter) bauabfall – container": [
+        {
+          "cbm": "5",
+          "price": 644.98,
+          "currency": "€"
+        }
+      ],
+      "7 cbm (kubikmeter) bauabfall – container": [
+        {
+          "cbm": "7",
+          "price": 749.7,
+          "currency": "€"
+        }
+      ],
+      "8 cbm (kubikmeter) bauabfall – container": [
+        {
+          "cbm": "8",
+          "price": 856.8,
+          "currency": "€"
+        }
+      ],
+      "3 cbm (kubikmeter) bauschutt – container": [
+        {
+          "cbm": "3",
+          "price": 386.75,
+          "currency": "€"
+        }
+      ],
+      "5,5 cbm (kubikmeter) bauschutt – container": [
+        {
+          "cbm": "5",
+          "price": 534.31,
+          "currency": "€"
+        }
+      ],
+      "7 cbm (kubikmeter) bauschutt – container": [
+        {
+          "cbm": "7",
+          "price": 658.07,
+          "currency": "€"
+        }
+      ],
+      "8 cbm (kubikmeter) bauschutt – container": [
+        {
+          "cbm": "8",
+          "price": 752.08,
+          "currency": "€"
+        }
+      ],
+      "10 cbm (kubikmeter) bauschutt – container": [
+        {
+          "cbm": "10",
+          "price": 940.01,
+          "currency": "€"
+        }
+      ],
+      "3 cbm (kubikmeter) gipsabfall – container": [
+        {
+          "cbm": "3",
+          "price": 374.85,
+          "currency": "€"
+        }
+      ],
+      "5,5 cbm (kubikmeter) gipsabfall – container": [
+        {
+          "cbm": "5",
+          "price": 546.53,
+          "currency": "€"
+        }
+      ],
+      "7 cbm (kubikmeter) gipsabfall – container": [
+        {
+          "cbm": "7",
+          "price": 595.11,
+          "currency": "€"
+        }
+      ],
+      "8 cbm (kubikmeter) gipsabfall – container": [
+        {
+          "cbm": "8",
+          "price": 680.13,
+          "currency": "€"
+        }
+      ],
+      "10 cbm (kubikmeter) gipsabfall – container": [
+        {
+          "cbm": "10",
+          "price": 850.16,
+          "currency": "€"
+        }
+      ],
+      "3 cbm (kubikmeter) container für behandeltes holz": [
+        {
+          "cbm": "3",
+          "price": 434.35,
+          "currency": "€"
+        }
+      ],
+      "5,5 cbm (kubikmeter) container für behandeltes holz": [
+        {
+          "cbm": "5",
+          "price": 636.65,
+          "currency": "€"
+        }
+      ],
+      "7 cbm (kubikmeter) container für behandeltes holz": [
+        {
+          "cbm": "7",
+          "price": 653.91,
+          "currency": "€"
+        }
+      ],
+      "8 cbm (kubikmeter) container für behandeltes holz": [
+        {
+          "cbm": "8",
+          "price": 747.32,
+          "currency": "€"
+        }
+      ],
+      "10 cbm (kubikmeter) container für behandeltes holz": [
+        {
+          "cbm": "10",
+          "price": 934.15,
+          "currency": "€"
+        }
+      ],
+      "3 cbm (kubikmeter) gartenabfall – container": [
+        {
+          "cbm": "3",
+          "price": 345.1,
+          "currency": "€"
+        }
+      ],
+      "5,5 cbm (kubikmeter) gartenabfall – container": [
+        {
+          "cbm": "5",
+          "price": 458.15,
+          "currency": "€"
+        }
+      ],
+      "7 cbm (kubikmeter) gartenabfall – container": [
+        {
+          "cbm": "7",
+          "price": 499.8,
+          "currency": "€"
+        }
+      ],
+      "8 cbm (kubikmeter) gartenabfall – container": [
+        {
+          "cbm": "8",
+          "price": 571.2,
+          "currency": "€"
+        }
+      ],
+      "10 cbm (kubikmeter) gartenabfall – container": [
+        {
+          "cbm": "10",
+          "price": 714.0,
+          "currency": "€"
+        }
+      ],
+      "3 cbm (kubikmeter) gewerbeabfall-container": [
+        {
+          "cbm": "3",
+          "price": 378.42,
+          "currency": "€"
+        }
+      ],
+      "5,5 cbm (kubikmeter) gewerbeabfall-container": [
+        {
+          "cbm": "5",
+          "price": 527.17,
+          "currency": "€"
+        }
+      ],
+      "7 cbm (kubikmeter) gewerbeabfall-container": [
+        {
+          "cbm": "7",
+          "price": 649.74,
+          "currency": "€"
+        }
+      ],
+      "8 cbm (kubikmeter) gewerbeabfall-container": [
+        {
+          "cbm": "8",
+          "price": 742.56,
+          "currency": "€"
+        }
+      ],
+      "10 cbm (kubikmeter) gewerbeabfall-container": [
+        {
+          "cbm": "10",
+          "price": 928.2,
+          "currency": "€"
+        }
+      ],
+      "3 cbm (kubikmeter) sperrmüll – container": [
+        {
+          "cbm": "3",
+          "price": 345.1,
+          "currency": "€"
+        }
+      ],
+      "5,5 cbm (kubikmeter) sperrmüll – container": [
+        {
+          "cbm": "5",
+          "price": 523.6,
+          "currency": "€"
+        }
+      ],
+      "7 cbm (kubikmeter) sperrmüll – container": [
+        {
+          "cbm": "7",
+          "price": 574.77,
+          "currency": "€"
+        }
+      ],
+      "8 cbm (kubikmeter) sperrmüll – container": [
+        {
+          "cbm": "8",
+          "price": 656.88,
+          "currency": "€"
+        }
+      ],
+      "10 cbm (kubikmeter) sperrmüll – container": [
+        {
+          "cbm": "10",
+          "price": 821.1,
+          "currency": "€"
+        }
+      ]
+    }
+  },
+  "https://www.dino-container.de/": {
+    "data_extraction": "2025-10-09 18:54:32",
+    "products": {
+      "Sperrmüll": [
+        {
+          "cbm": "3",
+          "price": 381.17,
+          "currency": "€"
+        }
+      ],
+      "Bauschutt": [
+        {
+          "cbm": "3",
+          "price": 370.16,
+          "currency": "€"
+        }
+      ],
+      "Baumischabfall": [
+        {
+          "cbm": "7",
+          "price": 871.52,
+          "currency": "€"
+        }
+      ],
+      "Beton": [
+        {
+          "cbm": "7",
+          "price": 322.59,
+          "currency": "€"
+        },
+        {
+          "cbm": "1",
+          "price": 55.0,
+          "currency": "€"
+        }
+      ],
+      "Gartenabfall": [
+        {
+          "cbm": "10",
+          "price": 491.98,
+          "currency": "€"
+        }
+      ],
+      "Holz": [
+        {
+          "cbm": "1",
+          "price": 39.0,
+          "currency": "€"
+        }
+      ],
+      "Abfallgemische": [
+        {
+          "cbm": "1",
+          "price": 109.0,
+          "currency": "€"
+        }
+      ]
+    }
+  },
+  "https://app.entsorgo.de": {
+    "data_extraction": "2025-10-09 19:07:33",
+    "products": {
+      "Baustellenmischabfall ohne Boden, Bauschutt & Steine Container": [
+        {
+          "cbm": "3",
+          "price": 399.76,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 550.73,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 771.02,
+          "currency": "€"
+        }
+      ],
+      "Baustellenmischabfall mit Boden, Bauschutt & Steine Container": [
+        {
+          "cbm": "3",
+          "price": 399.76,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 550.73,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 771.02,
+          "currency": "€"
+        }
+      ],
+      "Sperrmüll Container": [
+        {
+          "cbm": "3",
+          "price": 346.47,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 426.43,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 597.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 852.86,
+          "currency": "€"
+        }
+      ],
+      "Bauschutt (nicht sortenrein) Container": [
+        {
+          "cbm": "3",
+          "price": 319.81,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 399.74,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 559.64,
+          "currency": "€"
+        }
+      ],
+      "Holz behandelt (A2-A3) Container": [
+        {
+          "cbm": "3",
+          "price": 275.4,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 310.95,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 390.82,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 434.24,
+          "currency": "€"
+        },
+        {
+          "cbm": "15",
+          "price": 538.79,
+          "currency": "€"
+        },
+        {
+          "cbm": "22",
+          "price": 640.1,
+          "currency": "€"
+        },
+        {
+          "cbm": "40",
+          "price": 900.64,
+          "currency": "€"
+        }
+      ],
+      "Asbesthaltige Baustoffe (inkl. BigBags) Container": [
+        {
+          "cbm": "1",
+          "price": 464.1,
+          "currency": "€"
+        },
+        {
+          "cbm": "3",
+          "price": 963.72,
+          "currency": "€"
+        }
+      ],
+      "Dämmwolle, Glaswolle, oder Isolierwolle (inkl. Big Bags) Container": [
+        {
+          "cbm": "3",
+          "price": 399.13,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 666.29,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 932.81,
+          "currency": "€"
+        }
+      ],
+      "Bodenaushub (mit Steinen < 20%) Container": [
+        {
+          "cbm": "3",
+          "price": 390.88,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 461.93,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 646.71,
+          "currency": "€"
+        }
+      ],
+      "Styropor (HBCD frei mit Nachweis) Container": [
+        {
+          "cbm": "1",
+          "price": 559.67,
+          "currency": "€"
+        },
+        {
+          "cbm": "3",
+          "price": 666.4,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 892.5,
+          "currency": "€"
+        }
+      ],
+      "Siedlungsabfall Container": [
+        {
+          "cbm": "3",
+          "price": 399.76,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 550.73,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 761.98,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 992.91,
+          "currency": "€"
+        }
+      ],
+      "Gartenabfall: Grünschnitt Container": [
+        {
+          "cbm": "3",
+          "price": 302.05,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 337.56,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 472.58,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 675.11,
+          "currency": "€"
+        }
+      ],
+      "Holz schadstoffbelastet (A4) Container": [
+        {
+          "cbm": "3",
+          "price": 324.87,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 425.43,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 512.37,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 599.21,
+          "currency": "€"
+        },
+        {
+          "cbm": "15",
+          "price": 776.12,
+          "currency": "€"
+        },
+        {
+          "cbm": "22",
+          "price": 978.77,
+          "currency": "€"
+        }
+      ],
+      "Schrott Container": [
+        {
+          "cbm": "10",
+          "price": 464.1,
+          "currency": "€"
+        },
+        {
+          "cbm": "40",
+          "price": 773.5,
+          "currency": "€"
+        }
+      ],
+      "Gips (gemischt) Container": [
+        {
+          "cbm": "3",
+          "price": 422.86,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 479.57,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 671.61,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 959.45,
+          "currency": "€"
+        }
+      ],
+      "Gips (rein) Container": [
+        {
+          "cbm": "3",
+          "price": 422.86,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 479.57,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 671.61,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 959.45,
+          "currency": "€"
+        }
+      ],
+      "Bodenaushub ohne Fremdanteil Container": [
+        {
+          "cbm": "3",
+          "price": 390.88,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 461.93,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 646.71,
+          "currency": "€"
+        }
+      ],
+      "Ytong, Bimssteine, Porenbeton Container": [
+        {
+          "cbm": "3",
+          "price": 399.76,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 550.73,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 771.02,
+          "currency": "€"
+        }
+      ],
+      "Verpackungen gemischt Container": [
+        {
+          "cbm": "3",
+          "price": 361.69,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 454.07,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 546.44,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 684.99,
+          "currency": "€"
+        },
+        {
+          "cbm": "12",
+          "price": 813.07,
+          "currency": "€"
+        },
+        {
+          "cbm": "13",
+          "price": 859.26,
+          "currency": "€"
+        }
+      ],
+      "Verpackungsmaterial (transparent) Container": [
+        {
+          "cbm": "3",
+          "price": 361.69,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 454.07,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 546.44,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 684.99,
+          "currency": "€"
+        },
+        {
+          "cbm": "12",
+          "price": 813.07,
+          "currency": "€"
+        },
+        {
+          "cbm": "13",
+          "price": 859.26,
+          "currency": "€"
+        }
+      ],
+      "Gartenabfall: Wurzeln & Stammholz Container": [
+        {
+          "cbm": "3",
+          "price": 546.82,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 718.37,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 889.92,
+          "currency": "€"
+        }
+      ],
+      "Beton ohne Stahl (unbewehrt) Container": [
+        {
+          "cbm": "3",
+          "price": 319.81,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 399.74,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 559.64,
+          "currency": "€"
+        },
+        {
+          "cbm": "13",
+          "price": 787.78,
+          "currency": "€"
+        }
+      ],
+      "Beton mit Stahl (bewehrt) Container": [
+        {
+          "cbm": "3",
+          "price": 357.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 476.0,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 616.42,
+          "currency": "€"
+        }
+      ],
+      "Holz unbehandelt (A1) Container": [
+        {
+          "cbm": "3",
+          "price": 275.4,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 310.95,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 390.82,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 434.24,
+          "currency": "€"
+        },
+        {
+          "cbm": "15",
+          "price": 538.79,
+          "currency": "€"
+        },
+        {
+          "cbm": "22",
+          "price": 640.1,
+          "currency": "€"
+        },
+        {
+          "cbm": "40",
+          "price": 900.64,
+          "currency": "€"
+        }
+      ],
+      "Bodenaushub (mit Grasnarbe) Container": [
+        {
+          "cbm": "3",
+          "price": 559.3,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 868.7,
+          "currency": "€"
+        }
+      ],
+      "Papier, Pappe, Kartonage Container": [
+        {
+          "cbm": "3",
+          "price": 418.15,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 503.93,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 589.7,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 718.37,
+          "currency": "€"
+        },
+        {
+          "cbm": "15",
+          "price": 964.97,
+          "currency": "€"
+        }
+      ],
+      "Gartenabfall: Ast- und Strauchwerk Container": [
+        {
+          "cbm": "3",
+          "price": 327.73,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 507.65,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 582.62,
+          "currency": "€"
+        },
+        {
+          "cbm": "10",
+          "price": 733.04,
+          "currency": "€"
+        }
+      ],
+      "Bauschutt (sortenrein) Container": [
+        {
+          "cbm": "3",
+          "price": 319.81,
+          "currency": "€"
+        },
+        {
+          "cbm": "5",
+          "price": 399.74,
+          "currency": "€"
+        },
+        {
+          "cbm": "7",
+          "price": 559.64,
+          "currency": "€"
+        }
+      ],
+      "Miettoilette mit Handdesinfektion Container": [
+        {
+          "cbm": "1",
+          "price": 184.09,
+          "currency": "€"
+        }
+      ],
+      "Miettoilette mit Handwaschbecken Container": [
+        {
+          "cbm": "1",
+          "price": 238.24,
+          "currency": "€"
+        }
+      ],
+      "Miettoilette green Container": [
+        {
+          "cbm": "1",
+          "price": 249.84,
+          "currency": "€"
+        }
+      ],
+      "Speisefett Container": [
+        {
+          "cbm": "0.09",
+          "price": 23.67,
+          "currency": "€"
+        },
+        {
+          "cbm": "1",
+          "price": 92.05,
+          "currency": "€"
+        }
+      ],
+      "Datenträgervernichtung Container": [
+        {
+          "cbm": "0.07",
+          "price": 386.75,
+          "currency": "€"
+        },
+        {
+          "cbm": "0.24",
+          "price": 850.85,
+          "currency": "€"
+        }
+      ],
+      "Festplattenvernichtung Container": [
+        {
+          "cbm": "0.07",
+          "price": 464.1,
+          "currency": "€"
+        }
+      ],
+      "Aktenvernichtung Container": [
+        {
+          "cbm": "0.1",
+          "price": 131.5,
+          "currency": "€"
+        },
+        {
+          "cbm": "0.12",
+          "price": 131.5,
+          "currency": "€"
+        },
+        {
+          "cbm": "0.24",
+          "price": 116.03,
+          "currency": "€"
+        },
+        {
+          "cbm": "0.35",
+          "price": 162.44,
+          "currency": "€"
+        },
+        {
+          "cbm": "0.5",
+          "price": 205.28,
+          "currency": "€"
+        },
+        {
+          "cbm": "1.1",
+          "price": 624.75,
+          "currency": "€"
+        }
+      ]
+    }
+  }
+}

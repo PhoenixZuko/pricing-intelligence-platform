@@ -1,0 +1,25 @@
+{
+  "myresolver": {
+    "Account": {
+      "Email": "info@info-info.info",
+      "Registration": {
+        "body": {
+          "status": "valid"
+        },
+        "uri": "https://acme-v02.api.letsencrypt.org/acme/acct/PrivateKey"
+      },
+      "PrivateKey": "PrivateKey+PrivateKey/PrivateKey+PrivateKey/PrivateKey+PrivateKey/PrivateKey/PrivateKey/vGzI/PrivateKey+PrivateKey/PrivateKey/JKYL+PrivateKey+msbQeJvdZi1hzebYr+GOi+XIoVfrunEvCYbdn+PrivateKey/PrivateKey/eCXkNEEuxMf424ge8qAF9UAcaRoD9ivmX4CM9l6MDo0Kv+MFtyB9YQJhadWX9YTGpd4/QkS1CxVJ3Gd4aBXcRBVIPo18L80CAwEAAQKCAgA+tuOcmuZdDmxYZQOKhdvYPLs+G8lAsk0ZMkaaR1KsLbjm2hkKrMkHurJb5YEFbqT055r5Xl+GCkQXnA0vlBEjdrZW9AexTk6LrNbkRuzPAHMATf+X1xcknht8r4MFZULC5BMr4Qu39lyQXWWjdsVfetkm4MZkd5Q1J96qCL3Pek/dYSzJ1rlh7cmAYY32b8rQMw0YfMrFaQ9CFYN7rxvhmXrwm18tzp6EiApIbVbefPmc3BRiCHTJGad380gj/lWN6R75E+OUaQ2qMVNGq/H0gEVtKxzgqnJ+cyUUii662gErcDw0cKpLjLbmeiTTMIqFOURH1+VbnekOnuTxoWmtP6xkQNJR6mHltMjWmDIamSmFS20/A0z/frd4ZxkoIB4mAV8FLXBLWPi9Ij0ckeH6hRWnBRnYhPQzfhRCX7UHN4hXv9GCyl36T0VzWabnzBLMQn45bSije5EgT6ndbicVl4THBz5scnX7xHy8bzl4TacUd4rHlXaYWdIGQkzmgg9esHdLhfwR/moNRsS6JxLhvhvprR4cr4cza12RvobM8xzMDmXZpYaXh2h+e9Zp/LySrwpeVBqTjiLOWxkoNi6eN0Wfjs05cfGKnT3BtG2UueJqiGnZGd3mWuJw3OwJQxlRJfPZZjBssKKb6h87J0C6pyfHHh96rSzJCuls1y4g4QKCAQEAwxmAIqVkhmTulmCNsj5iGy03mAAUnhrWti/FURpb0TijUKDmk3++cxNSOdgOIm2Hb51ae17tUREa0D/QCWzl0HgLjiRR6yjNYxfbpHSDqxx7WNekE3wYiIz0MNCHIvfWOMIRJ+ZoZIOMqHps8xkgvpu+Al02DC1PAJXOq9sNjfkn62yDsaaNyUF0EjmF+e6vA73HCzoRKeoSBsaguUcHk6Rj0I4U9P0vHykqT20Ow0G7aEunri0E9779AxmhyVkNazNZqLphQzt5h5Id3O+1wzVccMaPQPD0++1TVhU07269zuAlhjWIIs5GM5peUQdnkLZRQnxEzQzmvLppZEw4NQKCAQEA0AbJ1HKN74xDSUT3uZqInDHllO2hfDIpvzJpX/VUFJJYxMlzNsQdpPjOJLlqSBX/YY9Gx3aAzq8fv9f6UcMQcdKx3FwlKurPCM7tlPYVfBCXg01KLTHUn66Pq+7erm1wYTwj2gYkRbT11EsPRiQ65NqXjK/CljG7y+pJxgGiIl9m5X2CEi1rbzwHhn1Lf4Vs7ORKadiTg1LhAAJXW8DyuCSbho1M5Bl+KAMWsoQaB+0d8vyVYG+sOPPIRISbdeatTRynFgBySQqz0iGxQGx9ZmYthjUpWkQIckTB2BYjlNWtmzzw1FusmXuDallRLiq7SYqfwPqCr8xFj5c0xWJ8OQKCAQAykbqHwGz09NZuveocaFUPjEHbsTGm5Xf/0xQG+JkR+udB7+K0GqlntHtcqObI/7DaOmQIlEtY9uEHV3L57nMG/QapujpNhM7vv3BcCSNTx9ck6QgLUOAfDMICoRpV8v1gytSdjfhDDWH5DXqN7FZzcXTnsfdfYqMWmL3wB6BUy18Qg5kDBBO+Nav7SVOzu607gAZGn69xOM2hWfyw6XtKRpLkrN87vSBoqEfiPHdWHwSPfQSifeLKwINeOVeZE+8JeU7lECJDxfezLyl0aeGoDn2+cYkSISKu5g3ywx5sbTzfkXPIfLmjo+nIWFvYDt5GQSuA2ysOJyjrhDnrGGJ9AoIBAGlM5mFp0zsMzwqJpLQI61nVUBdA6ltJsSQdSoXOU09OfSyvpGh2gWL+pqqkSI5QxEMIGZXiAHWe4/1iQE2e5fYX5vxakF3XGhGlXVHn9xwj8e3+86tI7A4geI1ZjtLQhvBRVvyH21iFr2JU1Fh3AnDRzaDjXyZT6nHgGJPoQ8AOdrF4BJ1a7GUUB+MmDU9xpJ+NN7W4cYMqMsakaMADPVnE/gzv/ZoA5YEvfw/CGsMkXeKfxKVaId16WUeFsIPPzq2X8WQLuc4LYtbdQzIPOLLayfSDeHk+st/UuiK9oik2uHg6MtXrycSvZugwag1qh/9D8nXm2LxQNG3o5kd8ANECggEARX/oFUHyiu2uhYXx+KBg2kb9p4RsrFD7m4+N+1b7ijoA1fImpaGOebf/0ecUBMUcDLVNZ16yDgySaC4Vi9xI/CIVMLqv+rrH0Z8wqxBfCuUfLg9x2fTKBnjLowmyiioxcLT4dYf1CGqf5JEn9bxRyBMYur0HShYuii/HjNC/FP8IpKZ5fvYN2g3wLSdRzdC00088ubynefH7RsX2I8bXpwONwdEpeGuzrDcep8bJieNZKN3ZVpmjTOPjdXT8lsf3CRA7vB33vZ3eLsVFPBvSmreVZt9X41jSSknLwnxYA4sSjGXcF5KOIQSfKhXJHv2E1OVOKz/+k0xXMB49WE92OQ==",
+      "KeyType": "4096"
+    },
+    "Certificates": [
+      {
+        "domain": {
+          "main": "info.info-info.info"
+        },
+        "certificate": "PrivateKey",
+        "key": "PrivateKey",
+        "Store": "default"
+      }
+    ]
+  }
+}
