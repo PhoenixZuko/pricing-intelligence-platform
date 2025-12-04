@@ -66,6 +66,49 @@ This document explains the very first steps after cloning the repository and set
 
 ---
 
+
+Workflow ASCII diagram
+                         ┌──────────────────────────┐
+                         │        Scheduler         │
+                         │ - Runs cron jobs         │
+                         │ - Triggers Orchestrator  │
+                         └───────────┬─────────────┘
+                                     │
+                                     ▼
+                         ┌──────────────────────────┐
+                         │       Orchestrator       │
+                         │ - Executes scrapers      │
+                         │ - Installs dependencies  │
+                         │ - Uses local scraper code│
+                         └───────────┬─────────────┘
+                                     │
+                       writes data   │
+                                     ▼
+                       ┌───────────────────────────┐
+                       │  PostgreSQL (Scrapers DB) │
+                       │ - Stores extracted data   │
+                       │ - Persistent volume       │
+                       └───────────┬──────────────┘
+                                   │
+      ┌────────────────────────────┴──────────────────────────┐
+      │                                                       │
+      ▼                                                       ▼
+┌─────────────────────┐                          ┌──────────────────────────┐
+│        API          │                          │        Metabase          │
+│ - Flask REST API    │                          │ - Dashboards & Charts    │
+│ - Secure via Traefik│                          │ - Uses its own Postgres  │
+│ - Serves data JSON  │                          │ - Reads Scrapers DB      │
+└───────────┬─────────┘                          └───────────┬──────────────┘
+            │                                              │
+            │ external access                              │ external access
+            ▼                                              ▼
+   ┌──────────────────────────┐                 ┌──────────────────────────┐
+   │         Traefik          │                 │         Traefik          │
+   │ - Reverse proxy          │                 │ - SSL certificates       │
+   │ - Routes /api and /      │                 │ - Secure HTTPS access    │
+   └──────────────────────────┘                 └──────────────────────────┘
+
+
 ## 1. Clone the Repository
 
 ```bash
