@@ -67,6 +67,15 @@ This document explains the very first steps after cloning the repository and set
 ---
 
 
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/PhoenixZuko/pricing-intelligence-platform
+cd pricing-intelligence-platform
+
+
+
 Workflow ASCII diagram
                          ┌──────────────────────────┐
                          │        Scheduler         │
@@ -107,14 +116,6 @@ Workflow ASCII diagram
    │ - Reverse proxy          │                 │ - SSL certificates       │
    │ - Routes /api and /      │                 │ - Secure HTTPS access    │
    └──────────────────────────┘                 └──────────────────────────┘
-
-
-## 1. Clone the Repository
-
-```bash
-git clone https://github.com/PhoenixZuko/pricing-intelligence-platform
-cd pricing-intelligence-platform
-
 
 2. Configure Environment
 
