@@ -103,21 +103,17 @@ This repository includes a set of demonstration videos created during the develo
 They were originally prepared for client communication and milestone validation.
 These videos provide high-level functional overviews and visual context, but they do not replace the official technical documentation.
 
-Milestone Walkthroughs
-Milestone 1
-https://www.youtube.com/watch?v=ijqTALUnk1k
-Milestone 2
-https://www.youtube.com/watch?v=iBuDspQvl5s
-Milestone 3
-https://www.youtube.com/watch?v=RJLspqNEm1U
-Milestone 4
-https://www.youtube.com/watch?v=_Zp7e7ik51w
-
-Portfolio Reference
-
-This project was originally delivered through Upwork.
-Public portfolio link:
-https://www.upwork.com/freelancers/~01207dc9df982f92c4?p=1955092061314666496
+## Demo Videos
+- **Milestone 1:**  
+  https://www.youtube.com/watch?v=ijqTALUnk1k  
+- **Milestone 2:**  
+  https://www.youtube.com/watch?v=iBuDspQvl5s  
+- **Milestone 3:**  
+  https://www.youtube.com/watch?v=RJLspqNEm1U  
+- **Milestone 4:**  
+  https://www.youtube.com/watch?v=_Zp7e7ik51w  
+## Portfolio Reference 
+- https://www.upwork.com/freelancers/~01207dc9df982f92c4?p=1955092061314666496
 
 
 
