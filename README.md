@@ -99,25 +99,23 @@ Full project documentation inside DOCUMENTATION/
 
 Demo Videos
 
-A set of demo videos is provided for completeness.
-These videos were originally prepared for client updates during development and serve as non-technical overviews of the system.
-They are intended for presentation purposes only and do not replace the actual technical documentation.
+This repository includes a set of demonstration videos created during the development process.
+They were originally prepared for client communication and milestone validation.
+These videos provide high-level functional overviews and visual context, but they do not replace the official technical documentation contained within the repository.
 
+Milestone Walkthroughs
 
-https://www.youtube.com/watch?v=ijqTALUnk1k Milestone 1
-https://www.youtube.com/watch?v=iBuDspQvl5s Milestone 2
-https://www.youtube.com/watch?v=RJLspqNEm1U Milestone 3
-https://www.youtube.com/watch?v=_Zp7e7ik51w Milestone 4
+Milestone 1 — https://www.youtube.com/watch?v=ijqTALUnk1k
+Milestone 2 — https://www.youtube.com/watch?v=iBuDspQvl5s
+Milestone 3 — https://www.youtube.com/watch?v=RJLspqNEm1U
+Milestone 4 — https://www.youtube.com/watch?v=_Zp7e7ik51w
 
-For reference, this project was originally delivered through Upwork:
-https://www.upwork.com/freelancers/~01207dc9df982f92c4?p=1955092061314666496  (public portfolio link)
+These demonstrations outline the incremental development phases, architectural decisions, and early implementation details.
 
+Portfolio Reference
 
-# Pricing Data Platform – First Steps
-
-Welcome!  
-This document explains the very first steps after cloning the repository and setting up the environment.
-
+This project was originally delivered through Upwork, and a public portfolio reference is available here:
+https://www.upwork.com/freelancers/~01207dc9df982f92c4?p=1955092061314666496
 ---
 
 
