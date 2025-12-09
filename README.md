@@ -10,13 +10,67 @@ Parts of this project were originally designed for a client-specific environment
 All sensitive data, credentials, and proprietary logic have been removed or replaced with neutral examples.
 If you wish to use any component of this code in a commercial or client project, please contact me directly to discuss licensing and permissions.
 
-
-
-
 Note:
 This repository contains a generalized and cleaned version of a production scraping/data extraction
 system originally developed for a commercial environment. All sensitive data, client-specific details,
 and private logic have been removed. The project is presented strictly as a technical reference.
+
+
+## Design Notes & Project Constraints
+
+This system was designed and deployed under strict technical and operational constraints defined by the client.  
+The solution had to run reliably on an **Alpine Linux server** with limited resources, without introducing external dependencies or modifying the existing environment.  
+All architectural decisions were made to ensure stability, isolation, and predictable execution.
+
+### 🔒 1. Fully Self-Contained Execution (Alpine Linux)
+The platform was required to operate end-to-end using only the resources available on a lightweight **Alpine Linux** server.  
+To satisfy this requirement, the system was engineered to:
+
+- run without external cloud services or remote APIs,  
+- maintain compatibility with Alpine’s minimal system libraries (musl libc),  
+- avoid heavy dependencies that conflict with lightweight Linux distributions,  
+- execute predictably through Cron-based orchestration and isolated runtime processes.
+
+This approach ensures high reliability on minimal infrastructure, while preserving full control over the automation workflow.
+
+### 👁️ 2. Transparent and Supervised Automation Behavior
+The automation logic was required to mimic human interaction and remain fully observable during execution.  
+As a result, the system:
+
+- performs real-time browser actions,  
+- avoids aggressive scraping techniques,  
+- uses controlled scrolling, filtering, and page state monitoring,  
+- logs every operational step for full traceability.  
+
+This guarantees safe behavior aligned with platform policies and prevents disruptive automated patterns.
+
+### ⚙️ 3. Process Isolation and Zero Interference With Host System
+Since the client environment also ran multiple business applications, the solution needed to operate without risk of interference.  
+To achieve this, the system includes:
+
+- PID tracking and controlled subprocess lifecycle management,  
+- clean shutdown and restart routines,  
+- sandboxed Chrome profiles,  
+- file-level isolation for configuration, storage, and caching.
+
+No global system settings are modified, and all operations remain contained within the application directory.
+
+### 💰 4. Architecture Optimized for Budget and Maintainability
+The client required a production-oriented tool while avoiding DevOps overhead such as Docker, Kubernetes, cloud databases, or managed services.  
+Therefore, the platform was designed as a **zero-infrastructure**, single-folder application that delivers:
+
+- automated ETL workflow (Extract → Transform → Load),  
+- configurable YAML-driven behavior,  
+- a real-time dashboard served locally,  
+- automated proxy validation and data processing pipelines,  
+- SSH-based synchronization between Alpine and cPanel environments.
+
+This achieves enterprise-level functionality within the constraints of a cost-efficient deployment model.
+
+---
+
+This design reflects a balance between technical rigor, robustness, client infrastructure limitations, and long-term maintainability.  
+The system remains lightweight, transparent, and fully self-contained while supporting complex automation and data processing workflows.
 
 
 Architecture Summary
