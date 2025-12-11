@@ -1,6 +1,6 @@
  PROJECT: PRICING DATA PLATFORM
  Author: Andrei Sorin Ștefan
-
+```bash
 
 Pricing-Project/
 ├── docker-compose.yml          # Main Docker Compose file: defines all services (DBs, API, Orchestrator, Scheduler, Metabase, Traefik)
