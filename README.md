@@ -123,6 +123,91 @@ These videos provide high-level functional overviews and visual context, but the
 git clone https://github.com/PhoenixZuko/pricing-intelligence-platform
 cd pricing-intelligence-platform
 
+ PROJECT: PRICING DATA PLATFORM
+ Author: Andrei Sorin Ștefan
+```bash
+
+Pricing-Project/
+├── docker-compose.yml          # Main Docker Compose file: defines all services (DBs, API, Orchestrator, Scheduler, Metabase, Traefik)
+├── requirements.txt            # Common Python dependencies
+├── runner.py                   # Entry point for Orchestrator; executes scrapers
+│
+├── DOCUMENTATION/              # Documentation and guides
+│   ├── ARCHITECTURE.md         # Detailed architecture explanation
+│   ├── Change_scraper_schedule.md # How to change the cron schedule for scrapers
+│   ├── DEV_MODE.md             # Instructions for running project in Dev Mode (no Docker)
+│   ├── INSTALLATION.md         # Installation instructions
+│   ├── INSTALL_Guide.md        # Additional setup guide
+│   ├── PricingScraper-DevMode.zip # Full Dev Mode package (non-dockerized version)
+│   ├── README.md               # Documentation overview
+│   ├── USAGE.md                # How to use the system
+│   └── VIDEO_GUIDE.md          # Script/guide for client presentation video
+│
+├── Scrapers/                   # Data extraction scripts (scrapers)
+│   ├── 1cdz-scraper.py         # Individual scraper for source 1 (example: cdz)
+│   ├── 2dino-scraper.py        # Scraper for source 2
+│   ├── 3klebs-scraper.py       # Scraper for source 3
+│   ├── 4main_clearago.py       # Scraper for source 4 (Clearago)
+│   ├── 5main_entsorgo.py       # Scraper for source 5 (Entsorgo)
+│   ├── core_clearago/          # Core scraping logic specific to Clearago
+│   ├── core_ensorgo/           # Core scraping logic specific to Entsorgo
+│   ├── cvs_maker.py            # Utility to export results to CSV
+│   ├── json_maker.py           # Utility to export results to JSON
+│   └── README.md               # Notes and usage for scrapers
+│
+├── archive/                    # Archived results of past scraper runs
+│   ├── results_data_07_10_2025 # Example archived dataset
+│   └── results_data_08_10_2025 # Example archived dataset
+│
+├── category_parser/            # Category parsing module
+│   ├── create_category.py      # Script to create category mappings
+│   ├── create_type.py          # Script to create type mappings
+│   ├── output_data_with_type.csv # Example output file with type/category
+│   ├── type_definitions/       # Folder containing category/type definitions
+│   └── README.md               # Notes for category parser usage
+│
+├── config.yaml                 # Global configuration file
+│
+├── database/                   # Database initialization scripts
+│   ├── db_setup.py             # Script to set up database schema/tables
+│   └── README.md               # Documentation for DB setup
+│
+├── flask_api/                  # Flask REST API service
+│   ├── Dockerfile              # Docker build file for API
+│   ├── app.py                  # Main Flask app (defines endpoints)
+│   ├── auth.py                 # Authentication logic (BasicAuth)
+│   ├── db.py                   # Database connection/queries
+│   ├── requirements.txt        # API-specific dependencies
+│   ├── README.md               # API usage notes
+│   └── __pycache__/            # Compiled Python cache (auto-generated)
+│
+├── metabase/                   # Metabase container (dashboards/visualizations)
+├── metabase-postgres/          # PostgreSQL DB for Metabase configuration (users, dashboards)
+├── postgres/                   # PostgreSQL DB for scraper data
+│   └── Dockerfile              # Docker build file for Postgres
+│
+├── orchestrator/               # Orchestrator service (controls scraper runs)
+│   ├── Dockerfile              # Docker build file for orchestrator
+│   └── requirements.txt        # Orchestrator-specific dependencies
+│
+├── scheduler/                  # Scheduler service (cron jobs)
+│   ├── Dockerfile              # Docker build file for scheduler
+│   └── entrypoint.sh           # Entrypoint script to run cron jobs
+│
+├── traefik/                    # Traefik reverse proxy (routing & SSL)
+│   ├── traefik.yml             # Main Traefik config
+│   ├── traefik_dynamic.yml     # Dynamic routing rules for API/Metabase
+│   ├── acme.json               # Stores SSL certificates (Let's Encrypt)
+│
+└── utils/                      # Utility scripts
+    ├── cleaner.py              # Script for cleaning/preprocessing data
+    └── README.md               # Notes for utilities
+
+
+
+Dockerized services (flask_api, orchestrator, scheduler, postgres, metabase, traefik).
+Core logic (scrapers, orchestrator, API).
+Docs + configs.
 
 
 Workflow ASCII diagram
