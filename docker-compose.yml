@@ -226,7 +226,19 @@ services:
 
       - traefik-net
 
-
+  monitor:
+    build: ./monitor
+    container_name: monitor
+    env_file: .env
+    volumes:
+      - ./monitor:/workspace/monitor
+      - ./archive:/workspace/archive
+      - /var/run/docker.sock:/var/run/docker.sock
+    restart: always
+    labels:
+      traefik.enable: "false"
+    networks:
+      - traefik-net
 
 volumes:
   pgdata:
@@ -234,11 +246,6 @@ volumes:
   metabase_pgdata:
     name: pricing_metabase_pgdata
 
-
-
 networks:
-
   traefik-net:
-
     driver: bridge
-
