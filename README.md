@@ -44,18 +44,7 @@ As a result, the system:
 
 This guarantees safe behavior aligned with platform policies and prevents disruptive automated patterns.
 
-### ⚙️ 3. Process Isolation and Zero Interference With Host System
-Since the client environment also ran multiple business applications, the solution needed to operate without risk of interference.  
-To achieve this, the system includes:
-
-- PID tracking and controlled subprocess lifecycle management,  
-- clean shutdown and restart routines,  
-- sandboxed Chrome profiles,  
-- file-level isolation for configuration, storage, and caching.
-
-No global system settings are modified, and all operations remain contained within the application directory.
-
-### 💰 4. Architecture Optimized for Budget and Maintainability
+### 💰 3. Architecture Optimized for Budget and Maintainability
 The client required a production-oriented tool while avoiding DevOps overhead such as Docker, Kubernetes, cloud databases, or managed services.  
 Therefore, the platform was designed as a **zero-infrastructure**, single-folder application that delivers:
 
